@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1738156469 source:c:\users\hp\desktop\projetbib\aaz\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1738156469 source:c:\users\hp\desktop\getsion de transport\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
